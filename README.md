@@ -1,18 +1,30 @@
                                 Chat Bot for the UK Travel information.
 Use case:
+
 Travelling now is complicated. In response to the Coronavirus, governments around the world are adjusting their travel and social policies to try to keep the virus at bay.
 But people are desperate to go for holidays after held up in lockdown for more than a year, while the travel advice from the UK government is changing day by day. 
 The UK government has charted down three categories based on which, people coming to the UK has to undertake the quarantine measures. 
+
 Red list countries and territories:
+
 Before the travel to England they must:
+
 •	take a COVID-19 test
+
 •	book a quarantine hotel package, including 2 COVID-19 tests
+
 •	complete a passenger locator form
+
 On arrival in England
+
 •	quarantine in a managed hotel, including 2 COVID-19 tests
+
 Amber list countries and territories:
+
 Before the travel to England they must:
+
 •	take a COVID-19 test
+
 •	book and pay for day 2 and day 8 COVID-19 travel tests – to be taken after arrival in England
 •	complete a passenger locator form
 On arrival in England they must:
